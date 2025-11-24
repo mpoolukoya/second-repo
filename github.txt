@@ -1,1 +1,2 @@
 using it for GitHub
+It's great to know that I can update my text file in GitHub, and commit changes
